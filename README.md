@@ -1,3 +1,6 @@
+## Demo
+
+![Demo](demo.png)
 # -------------------------------------------------------
 # Project: Document Knowledgebase Chatbot (RAG)
 # Author: Himavanth Reddy
